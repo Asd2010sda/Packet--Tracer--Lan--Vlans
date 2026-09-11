@@ -1,2 +1,2 @@
-# Packet--Tracer--Lan--Vlans
+# Packet-Tracer-Lan-Vlans
 Topologia LAN con VLANs simulando segmentacion IT/OT
